@@ -1,0 +1,44 @@
+<---- Launch Browser ---->
+browser = chrome
+
+<---- Web App URL ---->
+TEST_URL =  https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+
+<---- Admin Login Valid Credentials ---->
+Admin_email_address = Admin
+Admin_password = admin123
+
+
+<---- Login Invalid Credentials ---->
+INV_email_address = help@test
+INV_password = password@123
+INV_withoutNO_password = Passworddd@
+INVpassword_withoutspl_character = Password123
+INVpassword_withoutupper_character = password@123
+INVpassword_short_character = Pass
+
+<---- Forgot password Credentials ---->
+Forgot_email_address = tomgeorge+7@test.com
+
+
+
+<---- PIM page ---->
+first_name = Demoe
+middle_name = decoz
+last_name = jack
+
+first_name1 = rahul
+middle_name1 = priya
+lastname1 = sharukh
+
+first_name2 = karthik
+middle_name2 = suma
+lastname2 = jaffer 
+
+Invite_Department = Electrical
+
+Alt_Phone_number = +918086328116
+location = bengaluru
+
+
+<-------------------------------------------------------->
